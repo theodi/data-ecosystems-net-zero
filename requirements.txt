@@ -1,0 +1,6 @@
+jupyter
+pandas
+requests
+openpyxl
+seaborn
+libmagic
